@@ -1,0 +1,4 @@
+com/example/simplenotif/BuildConfig.java
+ com.example.simplenotif.BuildConfig
+com/example/simplenotif/MainActivity.java
+ com.example.simplenotif.MainActivity
