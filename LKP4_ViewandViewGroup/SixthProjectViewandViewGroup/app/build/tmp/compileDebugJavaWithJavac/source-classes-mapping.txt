@@ -1,4 +1,0 @@
-com/example/sixthprojectviewandviewgroup/BuildConfig.java
- com.example.sixthprojectviewandviewgroup.BuildConfig
-com/example/sixthprojectviewandviewgroup/MainActivity.java
- com.example.sixthprojectviewandviewgroup.MainActivity
